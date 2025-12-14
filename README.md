@@ -1,6 +1,6 @@
 # 🛡️ DDoS Protector - Nginx-ориентированная защита от атак
 
-[English Version](#-ddos-protector---nginx-focused-ddos-protection)
+[English Version](#%EF%B8%8F-ddos-protector---nginx-focused-ddos-protection)
 
 PHP-скрипт для автоматического обнаружения и блокировки DDoS-атак на веб-сервера Nginx через анализ логов и динамическое управление firewalld.
 
