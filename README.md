@@ -289,4 +289,3 @@ Issues and pull requests are welcome.
 ## ⭐ Support
 
 If this project helped you, please give it a star!
-```
